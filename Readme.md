@@ -94,19 +94,5 @@ src/main/java/com/kunal/Real_Time/News/Aggregator/with/Search/Trending
 
 ---
 
-This **README.md** is ready to copy into your repo.  
 
-It explains:
-
-- Features  
-- Tech stack  
-- Installation  
-- API endpoints and responses  
-- Project structure  
-
----
-
-If you want, I can also create a **fancier HTML version** with a **dashboard screenshot and badges for MongoDB, Elasticsearch, Redis, and Java** to make it look like a professional GitHub portfolio README.  
-
-Do you want me to do that?
 
